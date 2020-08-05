@@ -1,6 +1,6 @@
 ### Hi, my name is Stuart. I'm a full-stack software engineer. 🤙
 
-## I'm a Minimalist, Gamer, and lifelong Learner
+## I'm a Minimalist, Gamer, and Lifelong Learner
 
 - I'm currently learning GraphQL
 - I'm a partnered Twitch Broadcaster
