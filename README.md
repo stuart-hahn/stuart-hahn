@@ -19,6 +19,11 @@ My technical skills include Ruby, Sinatra, Ruby on Rails, JavaScript, React.js, 
 # Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a GraphQL Backend](https://stuart-hahn.github.io/creating_a_graphql_backend)
+- [The Async Nature of setState](https://stuart-hahn.github.io/the_async_nature_of_setstate)
+- [Final Project Notes](https://stuart-hahn.github.io/final_project_notes)
+- [Building a Vanilla JS Frontend](https://stuart-hahn.github.io/building_a_vanilla_js_frontend)
+- [Rails Portfolio Project](https://stuart-hahn.github.io/rails_portfolio_project)
 <!-- BLOG-POST-LIST:END -->
 
 ## tl/dr
