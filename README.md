@@ -15,7 +15,6 @@ My technical skills include Ruby, Sinatra, Ruby on Rails, JavaScript, React.js, 
 📈 - Entrepreneurship and Growth - Launched smartmadden.com (later acquired by PlaybookGG), a Madden tips website built on Wordpress. Building this site and growing the customer base came with all sorts of new and interesting challenges, ranging from simple things like how to tweak the site’s design to more challenging things like how to consistently attract new customers and make growth and retention more systematic.
 
 <br />
-<br />
 
 # Blog Posts
 
