@@ -14,9 +14,7 @@ My technical skills include Ruby, Sinatra, Ruby on Rails, JavaScript, React.js, 
 
 📈 - Entrepreneurship and Growth - Launched smartmadden.com (later acquired by PlaybookGG), a Madden tips website built on Wordpress. Building this site and growing the customer base came with all sorts of new and interesting challenges, ranging from simple things like how to tweak the site’s design to more challenging things like how to consistently attract new customers and make growth and retention more systematic.
 
-<br />
-
-# Blog Posts
+# Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [GraphQL Queries and Mutations](https://stuart-hahn.github.io/graphql_queries_and_mutations)
@@ -26,13 +24,12 @@ My technical skills include Ruby, Sinatra, Ruby on Rails, JavaScript, React.js, 
 - [Building a Vanilla JS Frontend](https://stuart-hahn.github.io/building_a_vanilla_js_frontend)
 <!-- BLOG-POST-LIST:END -->
 
-## tl/dr
+## tldr
 
-- I'm currently learning GraphQL
-- Partnered Twitch Broadcaster
-- Background in professional gaming and community management
-- 2020 Goals: Practice, practice, practice
-- Other Interests: Jaguars football, Oilers hockey, habits of top performers
+- I'm always focused on the fundamentals
+- I'm a partnered Twitch Broadcaster
+- My background is in professional gaming and community management
+- Other Interests: Jacksonville Jaguars football, Edmonton Oilers hockey, habits of top performers, reading, video games
 
 ### Connect with me:
 
