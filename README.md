@@ -4,7 +4,7 @@ I’m a full stack web developer with a background in professional gaming, commu
 
 ## What are my technical skills?
 
-My technical skills include Ruby, Sinatra, Ruby on Rails, JavaScript, React.js, and Redux, but my real passion of learning and overcoming challenges isn’t tied to any particular language or framework.
+My technical skills include Ruby, Sinatra, Ruby on Rails, JavaScript, React.js, Redux, and GraphQL. But my real passion of learning and overcoming challenges isn’t tied to any particular language or framework.
 
 ## What's my background?
 
