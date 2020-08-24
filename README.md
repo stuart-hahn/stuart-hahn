@@ -17,11 +17,11 @@ My technical skills include Ruby, Sinatra, Ruby on Rails, JavaScript, React.js, 
 # Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Setting Up a GraphQL Backend (Node, Prisma, Postgres)](https://stuart-hahn.github.io/setting_up_a_graphql_backend_node_prisma_postgres)
 - [Creating a controlled form using React Hooks](https://stuart-hahn.github.io/creating_a_controlled_form_using_react_hooks)
 - [GraphQL Queries and Mutations](https://stuart-hahn.github.io/graphql_queries_and_mutations)
 - [Creating a GraphQL Backend](https://stuart-hahn.github.io/creating_a_graphql_backend)
 - [The Async Nature of setState](https://stuart-hahn.github.io/the_async_nature_of_setstate)
-- [Final Project Notes](https://stuart-hahn.github.io/final_project_notes)
 <!-- BLOG-POST-LIST:END -->
 
 ## tldr
