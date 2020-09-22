@@ -17,11 +17,11 @@ My technical skills include Ruby, Sinatra, Ruby on Rails, JavaScript, React.js, 
 # Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Make Lots of Pots](https://stuart-hahn.github.io/make_lots_of_pots)
 - [Creating Lists in React](https://stuart-hahn.github.io/creating_lists_in_react)
 - [React is not a framework, but…](https://stuart-hahn.github.io/react_is_not_a_framework_but)
 - [Relearning is just learning](https://stuart-hahn.github.io/relearning_is_just_learning)
 - [Setting Up a GraphQL Backend (Node, Prisma, Postgres)](https://stuart-hahn.github.io/setting_up_a_graphql_backend_node_prisma_postgres)
-- [Creating a controlled form using React Hooks](https://stuart-hahn.github.io/creating_a_controlled_form_using_react_hooks)
 <!-- BLOG-POST-LIST:END -->
 
 ## tldr
