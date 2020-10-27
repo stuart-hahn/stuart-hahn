@@ -17,11 +17,11 @@ My technical skills include Ruby, Sinatra, Ruby on Rails, JavaScript, React.js, 
 # Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Ruby Gem](https://stuart-hahn.github.io/creating_a_ruby_gem)
 - [GraphQL Basics](https://stuart-hahn.github.io/graphql_basics)
 - [The Importance of TDD](https://stuart-hahn.github.io/the_importance_of_tdd)
 - [Is Competitive Programming a Good Way To Learn?](https://stuart-hahn.github.io/is_competitive_programming_a_good_way_to_learn)
 - [Building a Risk of Rain Cheat Sheet in React](https://stuart-hahn.github.io/building_a_risk_of_rain_cheat_sheet_in_react)
-- [Make Lots of Pots](https://stuart-hahn.github.io/make_lots_of_pots)
 <!-- BLOG-POST-LIST:END -->
 
 ## tldr
