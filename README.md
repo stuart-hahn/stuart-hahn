@@ -14,16 +14,6 @@ My technical skills include Ruby, Sinatra, Ruby on Rails, JavaScript, React.js, 
 
 📈 - Entrepreneurship and Growth - Launched smartmadden.com (later acquired by PlaybookGG), a Madden tips website built on Wordpress. Building this site and growing the customer base came with all sorts of new and interesting challenges, ranging from simple things like how to tweak the site’s design to more challenging things like how to consistently attract new customers and make growth and retention more systematic.
 
-# Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Nokogiri: A Quick How-To](https://stuart-hahn.github.io/nokogiri_a_quick_how-to)
-- [Creating a Ruby Gem](https://stuart-hahn.github.io/creating_a_ruby_gem)
-- [GraphQL Basics](https://stuart-hahn.github.io/graphql_basics)
-- [The Importance of TDD](https://stuart-hahn.github.io/the_importance_of_tdd)
-- [Is Competitive Programming a Good Way To Learn?](https://stuart-hahn.github.io/is_competitive_programming_a_good_way_to_learn)
-<!-- BLOG-POST-LIST:END -->
-
 ## tldr
 
 - Web developer and lifelong learner
